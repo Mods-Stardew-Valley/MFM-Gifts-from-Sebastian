@@ -29,7 +29,7 @@
     "Id": "MailSebastian01",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian01",
-    "Attachments": [ { "Type": "Object","Name": "ITEM","Stack": 1 } ],
+    "Attachments": [ { "Type": "Object","Name": "Quartz","Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 1 } ]
 },
 
@@ -37,7 +37,7 @@
     "Id": "MailSebastian02",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian02",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
+    "Attachments": [ { "Type": "Object", "Name": "Dwarf Gadget", "Stack": 1 }],
     "FriendshipConditions": [ {"NpcName": "Sebastian","FriendshipLevel": 2 } ],
     "EventsSeen": [ "27" ] //Apos evento de 2 corações em referencia ao computador
 },
@@ -46,7 +46,7 @@
     "Id": "MailSebastian03",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian03",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Coffee", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 3} ]
 },
 
@@ -54,7 +54,7 @@
     "Id": "MailSebastian04",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian04",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM Fruit", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Rusty Cog", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 4 } ],
     "EventsSeen": [ "28" ] //Apos evento de 4 corações em referencia a moto
 },
@@ -63,7 +63,7 @@
     "Id": "MailSebastian05",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian05",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Green Tea", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 5 } ]
 },
 
@@ -71,7 +71,8 @@
     "Id": "MailSebastian06",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian06",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Obsidian", "Stack": 1 },
+                     { "Type": "Object", "Name": "Quartz", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 6 } ],
     "EventsSeen": [ "29" ] //Apos evento de 6 corações em referencia a jogo de RPG
 },
@@ -80,8 +81,8 @@
     "Id": "MailSebastian07",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian07",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Void Egg", "Stack": 1 },
+                     { "Type": "Object", "Name": "Coffee", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 7 } ]
 },
 
@@ -89,8 +90,8 @@
     "Id": "MailSebastian08",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian08",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Frozen Geode", "Stack": 1 },
+                     { "Type": "Object", "Name": "Green Tea", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 8 } ],
     "EventsSeen": [ "30" ] //Apos evento de 8 corações em referencia a chuva e as lagrimas
 },
@@ -99,8 +100,8 @@
     "Id": "MailSebastian09",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian09",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Green Slime Egg", "Stack": 1 },
+                     { "Type": "Object", "Name": "Void Essence", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 9 } ]
 },
 
@@ -108,9 +109,9 @@
     "Id": "MailSebastian10",
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian10",
-    "Attachments": [ { "Type": "Object", "Index": "123", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Index": "84", "Stack": 1 },
+                     { "Type": "Object", "Name": "Sashimi", "Stack": 1 },
+                     { "Type": "Object", "Name": "Triple Shot Espresso", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 10 } ]
 },
 
@@ -125,25 +126,19 @@
 	"FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [
-		{ "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "SebastianGifts" }, //ITEM
-        { "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "SebastianGifts" }, //ITEM    
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "395", "Stack": 1, "RandomGroup": "SebastianGifts" }, //Coffee
+        
+        { "Type": "Object", "Index": "614", "Stack": 1, "RandomGroup": "SebastianGifts" }, //Green Tea    
 		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "SebastianGifts" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "SebastianGifts" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "SebastianGifts" }, //ITEM
+        { "Type": "Object", "Index": "80", "Stack": 1, "RandomGroup": "SebastianGifts" }, //Quartz
+		{ "Type": "Object", "Index": "80", "Stack": 2, "RandomGroup": "SebastianGifts" }, //Quartz
+				
+        { "Type": "Object", "Index": "575", "Stack": 1, "RandomGroup": "SebastianGifts" }, //Obsidian
 		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "SebastianGifts" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "SebastianGifts" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "SebastianGifts" }, //ITEM
-		
-        { "Type": "Object", "Index": "000", "Stack": 5, "RandomGroup": "SebastianGifts" }, //ITEM 
-		{ "Type": "Object", "Index": "000", "Stack": 10, "RandomGroup": "SebastianGifts" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 15, "RandomGroup": "SebastianGifts" }, //ITEM
-		
-        { "Type": "Object", "Index": "000", "Stack": 3,  "RandomGroup": "SebastianGifts" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 5,  "RandomGroup": "SebastianGifts" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 7,  "RandomGroup": "SebastianGifts" } //ITEM
+        { "Type": "Object", "Index": "769", "Stack": 1, "RandomGroup": "SebastianGifts" }, //Void Essence
+		{ "Type": "Object", "Index": "769", "Stack": 2, "RandomGroup": "SebastianGifts" }, //Void Essence 
+		{ "Type": "Object", "Index": "769", "Stack": 3, "RandomGroup": "SebastianGifts" }  //Void Essence
+
     ]
 }
 ]
