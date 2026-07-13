@@ -1,0 +1,145 @@
+[
+    //Reset de progressao para mods apos a v1.0.0
+    //Remover comentarios quando atualizar a versão ou lançar correção
+    //{	
+    //"Id":"Reset Sebastian",
+	//"AutoOpen": true,
+    //"MailReceivedToRemove": [
+	//	"MailSebastian01",
+	//	"MailSebastian02",
+	//	"MailSebastian03",
+	//	"MailSebastian04",
+	//	"MailSebastian05",
+	//	"MailSebastian06",
+	//	"MailSebastian07",
+	//	"MailSebastian08",
+	//	"MailSebastian09",
+	//	"MailSebastian10"
+	//    ]
+    //},
+
+    //Modificar os nomes e trocar os presentes
+    //Adicionar ou remover os presentes conforme necessario
+    //Alterar de Object para BigCraftable quando necessario
+    //Caso seja necessario usar o exemplo com "Index" das cartas repetiveis 
+        //Ideal para items com nomes diferentes ou caracteres especiais
+    //Remover todos os comentarios desnecessarios
+
+{
+    "Id": "MailSebastian01",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian01",
+    "Attachments": [ { "Type": "Object","Name": "ITEM","Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 1 } ]
+},
+
+{ 
+    "Id": "MailSebastian02",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian02",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
+    "FriendshipConditions": [ {"NpcName": "Sebastian","FriendshipLevel": 2 } ]
+},
+
+{
+    "Id": "MailSebastian03",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian03",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 3} ]
+},
+
+{
+    "Id": "MailSebastian04",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian04",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM Fruit", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 4 } ]
+},
+
+{
+    "Id": "MailSebastian05",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian05",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 5 } ]
+},
+
+{
+    "Id": "MailSebastian06",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian06",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 6 } ]
+},
+
+{
+    "Id": "MailSebastian07",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian07",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 7 } ]
+},
+
+{
+    "Id": "MailSebastian08",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian08",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 8 } ]
+},
+
+{
+    "Id": "MailSebastian09",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian09",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 9 } ]
+},
+
+{
+    "Id": "MailSebastian10",
+    "GroupId": "SebastianLetters",
+    "Text": "MailSebastian10",
+    "Attachments": [ { "Type": "Object", "Index": "123", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 10 } ]
+},
+
+    //Alterar os presentes e colocar os nomes nos comentarios
+    //Usar o mesmo Id com quantidades diferentes quando necessario
+
+{
+	"Id": "SebastianRepetable",
+    "GroupId": "RepeteableSebastian",
+	"Repeatable": true,
+	"RandomChance": 0.075,
+	"FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 1 } ],
+	"RandomlyChooseAttachment": 1,
+	"Attachments": [
+		{ "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "SebastianGifts" }, //ITEM
+        { "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "SebastianGifts" }, //ITEM    
+		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "SebastianGifts" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "SebastianGifts" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "SebastianGifts" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 5, "RandomGroup": "SebastianGifts" }, //ITEM 
+		{ "Type": "Object", "Index": "000", "Stack": 10, "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 15, "RandomGroup": "SebastianGifts" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 3,  "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 5,  "RandomGroup": "SebastianGifts" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 7,  "RandomGroup": "SebastianGifts" } //ITEM
+    ]
+}
+]

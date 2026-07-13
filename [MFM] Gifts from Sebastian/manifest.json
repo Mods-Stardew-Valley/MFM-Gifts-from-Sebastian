@@ -1,12 +1,12 @@
     //Trocar os nomes para o NPC desejado
     //Remover comentario do UpdateKeys e trocar pelo numero correto no nexus
 {
-   "Name": "Gifts from CHANGE",
+   "Name": "Gifts from Sebastian",
    "Author": "LoganDoidao",
    "Version": "1.0.0",
    "MinimumApiVersion": "4.1.0", 
-   "Description": "Receive letters and gifts from your friend CHANGE. ",
-   "UniqueID": "LoganDoidao.GiftsFromCHANGE",
+   "Description": "Receive letters and gifts from your friend Sebastian. ",
+   "UniqueID": "LoganDoidao.GiftsFromSebastian",
    //"UpdateKeys": [ "Nexus:?????" ], 
    "ContentPackFor": {
        "UniqueID": "DIGUS.MailFrameworkMod", 
