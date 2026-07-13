@@ -1,15 +1,25 @@
 //English Translation
 //default.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "I've been working a lot lately, and I realized these things help me relax a little.^Maybe they'll be useful to you on the farm too.^I hope you put them to good use.^^- Sebastian",
+
+  "MailSebastian01": "Hi, @.^While exploring the mines, I found this Quartz. I thought it looked nice, and figured you could probably make better use of it on the farm than I could.^I hope it comes in handy.^^- Sebastian",
+
+  "MailSebastian02": "Hey, @.^Maru insisted I keep this.^She said it could help me with my work, but honestly... I hate this thing.^It looks like an ancient computer from some lost civilization.^Maybe you'll find a better use for it than I did.^At best, I use it as decoration.^^- Sebastian",
+
+  "MailSebastian03": "Hi, @.^I was up working all night and ended up making way too much coffee.^I figured you could probably use a little extra energy for another day on the farm.^Enjoy.^^- Sebastian",
+
+  "MailSebastian04": "Hey, @.^Remember my motorcycle? While doing some maintenance, I found this rusty gear.^Maybe it'll give you a useful idea.^^- See you around^Sebastian",
+
+  "MailSebastian05": "Hi, @.^Coffee isn't always the answer.^Sometimes a little tea helps clear your mind and unwind after a long day.^I thought I'd send you some too.^^- See you around^Sebastian",
+
+  "MailSebastian06": "Hey, @.^I've always thought Quartz and Obsidian looked like the magical stones and runes from the RPGs I used to play.^Maybe they don't really have any power... but I still like imagining they do.^I hope you like them.^^- Take care^Sebastian",
+
+  "MailSebastian07": "Hi, @.^I found an egg as dark as the night, and it made me think of you.^I also brewed some coffee to help with your daily routine.^I hope they're both useful.^^- Take care^Sebastian",
+
+  "MailSebastian08": "Hey, @.^I found this Frozen Geode, and from the outside it reminded me of a Frozen Tear.^Who knows? Maybe there's something interesting hidden inside.^I also sent you some tea to go with it.^^- With affection^Sebastian",
+
+  "MailSebastian09": "Hey, @.^I found this Frog Egg and it reminded me that some of the best companions don't need to say a single word.^I also found some of this essence in the mines.^Maybe you'll find a good use for it.^^- Thinking of you^Sebastian",
+
+  "MailSebastian10": "Hi, @.^I wanted to thank you for all the time we've spent together.^I picked out a few of my favorite things: a Frozen Tear, some sashimi, and a strong cup of coffee for those long nights.^I hope this shows how much I like having you by my side.^^- With all my love^Sebastian"
 }

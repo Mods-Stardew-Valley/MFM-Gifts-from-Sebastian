@@ -38,7 +38,8 @@
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian02",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
-    "FriendshipConditions": [ {"NpcName": "Sebastian","FriendshipLevel": 2 } ]
+    "FriendshipConditions": [ {"NpcName": "Sebastian","FriendshipLevel": 2 } ],
+    "EventsSeen": [ "27" ] //Apos evento de 2 corações em referencia ao computador
 },
 
 {
@@ -54,7 +55,8 @@
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian04",
     "Attachments": [ { "Type": "Object", "Name": "ITEM Fruit", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 4 } ]
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 4 } ],
+    "EventsSeen": [ "28" ] //Apos evento de 4 corações em referencia a moto
 },
 
 {
@@ -70,7 +72,8 @@
     "GroupId": "SebastianLetters",
     "Text": "MailSebastian06",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 6 } ]
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 6 } ],
+    "EventsSeen": [ "29" ] //Apos evento de 6 corações em referencia a jogo de RPG
 },
 
 {
@@ -88,7 +91,8 @@
     "Text": "MailSebastian08",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
                      { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 8 } ]
+    "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 8 } ],
+    "EventsSeen": [ "30" ] //Apos evento de 8 corações em referencia a chuva e as lagrimas
 },
 
 {

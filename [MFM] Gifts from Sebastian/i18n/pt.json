@@ -1,15 +1,25 @@
 //Portuguese Translation
 //pt.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "Tenho trabalhado bastante ultimamente e apercebi-me de que estas coisas me ajudam a relaxar um pouco.^Talvez também lhe sejam úteis na quinta.^Espero que lhes dê bom uso.^^- Sebastian",
+
+  "MailSebastian01": "Olá, @.^Enquanto caminhava pelas minas encontrei este Quartzo. Achei-o bonito e imaginei que talvez lhe pudesse dar um uso melhor na quinta.^Espero que lhe seja útil.^^- Sebastian",
+
+  "MailSebastian02": "Olá, @.^A Maru insistiu para que eu ficasse com isto.^Disse que poderia ajudar-me no trabalho, mas sinceramente... detesto esta coisa.^Parece um computador antigo de uma civilização perdida.^Talvez lhe consiga dar um destino melhor do que eu.^No máximo, uso-o como peça de decoração.^^- Sebastian",
+
+  "MailSebastian03": "Olá, @.^Passei a noite a trabalhar e acabei por preparar café a mais.^Achei que também poderia precisar de um pouco de energia para enfrentar mais um dia na quinta. Aproveite.^^- Sebastian",
+
+  "MailSebastian04": "Olá, @.^Lembra-se da minha mota? Enquanto fazia a manutenção encontrei esta engrenagem enferrujada.^Talvez lhe desperte alguma ideia útil.^^- Até mais^Sebastian",
+
+  "MailSebastian05": "Olá, @.^Nem sempre o café é a resposta.^Às vezes, um pouco de chá ajuda a pôr as ideias em ordem e a relaxar depois de um longo dia de trabalho.^Resolvi enviar-lhe um pouco também.^^- Até mais^Sebastian",
+
+  "MailSebastian06": "Olá, @.^Sempre achei que Quartzos e Obsidianas fazem lembrar aquelas pedras e runas mágicas dos RPGs que costumava jogar.^Talvez não tenham poderes de verdade... mas continuo a gostar de imaginar que sim.^Espero que goste delas.^^- Cuide-se^Sebastian",
+
+  "MailSebastian07": "Olá, @.^Consegui um ovo tão negro quanto a noite e lembrei-me de si.^Também preparei um pouco de café para acompanhar a sua rotina.^Espero que ambos lhe sejam úteis.^^- Cuide-se^Sebastian",
+
+  "MailSebastian08": "Olá, @.^Encontrei este geodo congelado e fez-me lembrar uma lágrima congelada por fora.^Quem sabe se não haverá algo interessante escondido lá dentro?^Também lhe enviei um pouco de chá para acompanhar.^^- Com carinho^Sebastian",
+
+  "MailSebastian09": "Olá, @.^Encontrei este ovo de rã e lembrei-me de que algumas das melhores companhias não dizem uma única palavra.^Também encontrei um pouco desta essência nas minas.^Talvez lhe consiga dar um bom uso.^^- A pensar em ti^Sebastian",
+
+  "MailSebastian10": "Olá, @.^Queria agradecer-lhe por todo o tempo que passámos juntos.^Separei algumas das coisas de que mais gosto: uma lágrima congelada, um pouco de sashimi e um café bem forte para quando as noites forem longas.^Espero que isto demonstre o quanto gosto de tê-lo(a) ao meu lado.^^- Com todo o meu amor^Sebastian"
 }

@@ -1,15 +1,25 @@
 //French Translation
 //fr.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "Ces derniers temps, j'ai beaucoup travaillé et je me suis rendu compte que ces choses m'aident à me détendre un peu.^Peut-être qu'elles vous seront utiles à la ferme, à vous aussi.^J'espère que vous en ferez bon usage.^^- Sebastian",
+
+  "MailSebastian01": "Bonjour, @.^En explorant les mines, j'ai trouvé ce Quartz. Je l'ai trouvé joli et je me suis dit que vous pourriez sûrement mieux l'utiliser que moi à la ferme.^J'espère qu'il vous sera utile.^^- Sebastian",
+
+  "MailSebastian02": "Bonjour, @.^Maru a insisté pour que je garde ça.^Elle disait que ça pourrait m'aider dans mon travail, mais honnêtement... je déteste ce truc.^On dirait un vieil ordinateur venu d'une civilisation oubliée.^Peut-être que vous lui trouverez une meilleure utilité que moi.^Au mieux, je m'en sers comme décoration.^^- Sebastian",
+
+  "MailSebastian03": "Bonjour, @.^J'ai travaillé toute la nuit et j'ai préparé beaucoup trop de café.^Je me suis dit que vous auriez peut-être besoin d'un peu d'énergie pour une nouvelle journée à la ferme.^Profitez-en.^^- Sebastian",
+
+  "MailSebastian04": "Salut, @.^Vous vous souvenez de ma moto ? Pendant son entretien, j'ai trouvé cet engrenage rouillé.^Peut-être qu'il vous donnera une bonne idée.^^- À bientôt^Sebastian",
+
+  "MailSebastian05": "Bonjour, @.^Le café n'est pas toujours la solution.^Parfois, une tasse de thé aide à remettre ses idées en place et à se détendre après une longue journée.^Je me suis dit que je pourrais vous en envoyer un peu aussi.^^- À bientôt^Sebastian",
+
+  "MailSebastian06": "Salut, @.^J'ai toujours trouvé que le Quartz et l'Obsidienne ressemblaient aux pierres magiques et aux runes des RPG auxquels je jouais autrefois.^Peut-être qu'ils n'ont aucun véritable pouvoir... mais j'aime toujours imaginer le contraire.^J'espère qu'ils vous plairont.^^- Prenez soin de vous^Sebastian",
+
+  "MailSebastian07": "Bonjour, @.^J'ai trouvé un œuf aussi noir que la nuit, et il m'a fait penser à vous.^J'ai aussi préparé un peu de café pour vous accompagner dans votre journée.^J'espère que tout cela vous sera utile.^^- Prenez soin de vous^Sebastian",
+
+  "MailSebastian08": "Salut, @.^J'ai trouvé cette Géode gelée et elle m'a rappelé une Larme gelée de l'extérieur.^Qui sait ? Il y a peut-être quelque chose d'intéressant caché à l'intérieur.^Je vous ai aussi envoyé un peu de thé pour l'accompagner.^^- Avec affection^Sebastian",
+
+  "MailSebastian09": "Salut, @.^J'ai trouvé cet Œuf de grenouille et je me suis rappelé que les meilleures compagnies n'ont pas besoin de dire un seul mot.^J'ai aussi trouvé un peu de cette essence dans les mines.^Peut-être que vous lui trouverez une bonne utilité.^^- Je pense à vous^Sebastian",
+
+  "MailSebastian10": "Bonjour, @.^Je voulais vous remercier pour tout le temps que nous avons passé ensemble.^J'ai réuni quelques-unes de mes choses préférées : une Larme gelée, un peu de sashimi et un café bien fort pour les longues nuits.^J'espère que cela vous montrera combien j'aime vous avoir à mes côtés.^^- Avec tout mon amour^Sebastian"
 }

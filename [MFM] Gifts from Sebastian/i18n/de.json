@@ -1,15 +1,25 @@
 //German Translation
 //de.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "Ich habe in letzter Zeit viel gearbeitet und gemerkt, dass mir diese Dinge helfen, ein wenig zu entspannen.^Vielleicht sind sie auch auf deinem Hof nützlich.^Ich hoffe, du kannst sie gut gebrauchen.^^- Sebastian",
+
+  "MailSebastian01": "Hallo, @.^Während ich durch die Minen gelaufen bin, habe ich diesen Quarz gefunden. Ich fand ihn schön und dachte, dass du auf deinem Hof vielleicht mehr damit anfangen kannst als ich.^Ich hoffe, er ist nützlich für dich.^^- Sebastian",
+
+  "MailSebastian02": "Hallo, @.^Maru hat darauf bestanden, dass ich das behalte.^Sie meinte, es könnte mir bei der Arbeit helfen, aber ehrlich gesagt... ich hasse dieses Ding.^Es sieht aus wie ein uralter Computer aus einer längst vergessenen Zivilisation.^Vielleicht findest du eine bessere Verwendung dafür als ich.^Ich benutze es höchstens als Dekoration.^^- Sebastian",
+
+  "MailSebastian03": "Hallo, @.^Ich habe die ganze Nacht gearbeitet und am Ende viel zu viel Kaffee gemacht.^Ich dachte, du könntest für einen weiteren Tag auf dem Hof ebenfalls etwas Energie gebrauchen. Lass ihn dir schmecken.^^- Sebastian",
+
+  "MailSebastian04": "Hallo, @.^Erinnerst du dich an mein Motorrad? Während ich es gewartet habe, habe ich dieses rostige Zahnrad gefunden.^Vielleicht bringt es dich auf eine gute Idee.^^- Bis später^Sebastian",
+
+  "MailSebastian05": "Hallo, @.^Kaffee ist nicht immer die Antwort.^Manchmal hilft eine Tasse Tee dabei, die Gedanken zu ordnen und nach einem langen Arbeitstag zu entspannen.^Deshalb schicke ich dir auch etwas davon.^^- Bis später^Sebastian",
+
+  "MailSebastian06": "Hallo, @.^Ich fand schon immer, dass Quarz und Obsidian an die magischen Steine und Runen aus den RPGs erinnern, die ich früher gespielt habe.^Vielleicht besitzen sie keine echten Kräfte... aber ich stelle mir trotzdem gern vor, dass sie welche haben.^Ich hoffe, sie gefallen dir.^^- Pass auf dich auf^Sebastian",
+
+  "MailSebastian07": "Hallo, @.^Ich habe ein Ei gefunden, das so schwarz ist wie die Nacht, und musste dabei an dich denken.^Außerdem habe ich etwas Kaffee gemacht, damit du gut durch den Tag kommst.^Ich hoffe, beides ist nützlich für dich.^^- Pass auf dich auf^Sebastian",
+
+  "MailSebastian08": "Hallo, @.^Ich habe diese gefrorene Geode gefunden, und sie hat mich von außen an eine Gefrorene Träne erinnert.^Wer weiß, vielleicht verbirgt sich etwas Interessantes darin.^Außerdem habe ich dir etwas Tee dazugelegt.^^- In Liebe^Sebastian",
+
+  "MailSebastian09": "Hallo, @.^Ich habe dieses Froschei gefunden und musste daran denken, dass manche der besten Begleiter kein einziges Wort sagen.^Außerdem habe ich in den Minen etwas von dieser Essenz gefunden.^Vielleicht kannst du sie gut gebrauchen.^^- Ich denke an dich^Sebastian",
+
+  "MailSebastian10": "Hallo, @.^Ich wollte dir für all die Zeit danken, die wir zusammen verbracht haben.^Ich habe ein paar meiner Lieblingsdinge zusammengestellt: eine Gefrorene Träne, etwas Sashimi und einen richtig starken Kaffee für lange Nächte.^Ich hoffe, das zeigt dir, wie gern ich dich an meiner Seite habe.^^- In all meiner Liebe^Sebastian"
 }

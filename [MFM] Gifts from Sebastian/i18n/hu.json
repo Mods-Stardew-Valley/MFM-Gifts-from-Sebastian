@@ -1,15 +1,25 @@
 //Hungarian Translation
 //hu.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "Mostanában sokat dolgoztam, és rájöttem, hogy ezek a dolgok segítenek egy kicsit kikapcsolódni.^Talán neked is hasznosak lesznek a farmon.^Remélem, jó hasznukat veszed.^^- Sebastian",
+
+  "MailSebastian01": "Szia, @.^A bányákban járva találtam ezt a Kvarcot. Szépnek találtam, és arra gondoltam, hogy nálad jobb helye lenne a farmon.^Remélem, hasznát veszed.^^- Sebastian",
+
+  "MailSebastian02": "Szia, @.^Maru ragaszkodott hozzá, hogy megtartsam ezt.^Azt mondta, segíthetne a munkámban, de őszintén... utálom ezt az izét.^Úgy néz ki, mint egy ősi számítógép egy elveszett civilizációból.^Talán te jobban tudod majd használni, mint én.^Legfeljebb díszként tartom.^^- Sebastian",
+
+  "MailSebastian03": "Szia, @.^Egész éjjel dolgoztam, és végül túl sok kávét főztem.^Arra gondoltam, neked is jól jöhet egy kis energia egy újabb naphoz a farmon.^Egészségedre.^^- Sebastian",
+
+  "MailSebastian04": "Szia, @.^Emlékszel a motoromra? Karbantartás közben találtam ezt a rozsdás fogaskereket.^Talán ad egy jó ötletet.^^- Viszlát^Sebastian",
+
+  "MailSebastian05": "Szia, @.^A kávé nem mindig a megoldás.^Néha egy kis tea segít rendet tenni a gondolatok között és ellazulni egy hosszú nap után.^Gondoltam, küldök neked is egy keveset.^^- Viszlát^Sebastian",
+
+  "MailSebastian06": "Szia, @.^Mindig úgy éreztem, hogy a Kvarcok és az Obszidiánok olyanok, mint a régen játszott RPG-k varázskövei és rúnái.^Lehet, hogy nincs valódi erejük... de még mindig szeretek úgy tenni, mintha lenne.^Remélem, tetszenek.^^- Vigyázz magadra^Sebastian",
+
+  "MailSebastian07": "Szia, @.^Találtam egy tojást, ami olyan fekete, mint az éjszaka, és rólad jutott eszembe.^Főztem egy kis kávét is, hogy segítsen a mindennapokban.^Remélem, mindkettő hasznodra válik.^^- Vigyázz magadra^Sebastian",
+
+  "MailSebastian08": "Szia, @.^Találtam ezt a Fagyott Geódát, és kívülről egy Fagyott Könnyre emlékeztetett.^Ki tudja? Talán valami érdekes rejtőzik benne.^Küldtem mellé egy kis teát is.^^- Szeretettel^Sebastian",
+
+  "MailSebastian09": "Szia, @.^Találtam ezt a Békatojást, és eszembe jutott, hogy a legjobb társak néha egyetlen szót sem szólnak.^A bányában találtam egy kis esszenciát is.^Talán te jobban hasznát veszed.^^- Rád gondolok^Sebastian",
+
+  "MailSebastian10": "Szia, @.^Szerettem volna megköszönni mindazt az időt, amit együtt töltöttünk.^Összekészítettem néhány dolgot, amit a legjobban szeretek: egy Fagyott Könnyet, egy kis sashimit és egy igazán erős kávét a hosszú éjszakákra.^Remélem, ezzel megmutathatom, mennyire szeretek melletted lenni.^^- Minden szeretetemmel^Sebastian"
 }

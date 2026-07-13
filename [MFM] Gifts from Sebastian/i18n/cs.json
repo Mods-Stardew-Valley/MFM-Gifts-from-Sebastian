@@ -1,15 +1,25 @@
 //Czech Translation
 //cs.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "Poslední dobou jsem hodně pracoval a uvědomil jsem si, že mi tyhle věci pomáhají trochu se uvolnit.^Možná se budou hodit i tobě na farmě.^Doufám, že je dobře využiješ.^^- Sebastian",
+
+  "MailSebastian01": "Ahoj, @.^Při procházení dolů jsem našel tento Křemen. Přišel mi pěkný a napadlo mě, že by se ti mohl na farmě hodit víc než mně.^Doufám, že ti bude k užitku.^^- Sebastian",
+
+  "MailSebastian02": "Ahoj, @.^Maru trvala na tom, abych si to nechal.^Říkala, že mi to pomůže s prací, ale upřímně... tu věc nesnáším.^Připomíná starý počítač z nějaké ztracené civilizace.^Možná pro ni najdeš lepší využití než já.^Já ji používám nanejvýš jako dekoraci.^^- Sebastian",
+
+  "MailSebastian03": "Ahoj, @.^Pracoval jsem celou noc a nakonec jsem připravil až moc kávy.^Napadlo mě, že by se trochu energie mohlo hodit i tobě na další den na farmě. Užij si ji.^^- Sebastian",
+
+  "MailSebastian04": "Ahoj, @.^Pamatuješ si na moji motorku? Při údržbě jsem našel tohle rezavé ozubené kolo.^Možná tě inspiruje k nějakému dobrému nápadu.^^- Měj se^Sebastian",
+
+  "MailSebastian05": "Ahoj, @.^Káva není vždycky odpověď.^Někdy šálek čaje pomůže srovnat si myšlenky a odpočinout si po dlouhém dni.^Rozhodl jsem se poslat trochu i tobě.^^- Měj se^Sebastian",
+
+  "MailSebastian06": "Ahoj, @.^Vždycky mi Křemeny a Obsidiány připomínaly kouzelné kameny a runy z RPG her, které jsem hrával.^Možná žádnou skutečnou moc nemají... ale stejně si rád představuju, že ano.^Doufám, že se ti budou líbit.^^- Opatruj se^Sebastian",
+
+  "MailSebastian07": "Ahoj, @.^Sehnal jsem vejce černé jako noc a hned jsem si vzpomněl na tebe.^Připravil jsem také trochu kávy, aby ti zpříjemnila den.^Doufám, že ti obojí dobře poslouží.^^- Opatruj se^Sebastian",
+
+  "MailSebastian08": "Ahoj, @.^Našel jsem tuto zmrzlou geodu a připomněla mi Zmrzlou slzu.^Kdo ví, třeba se uvnitř skrývá něco zajímavého.^Poslal jsem ti k ní i trochu čaje.^^- S láskou^Sebastian",
+
+  "MailSebastian09": "Ahoj, @.^Našel jsem tohle žabí vejce a připomnělo mi, že některé z nejlepších společností nemusí říct jediné slovo.^V dolech jsem také našel trochu téhle esence.^Možná ji dobře využiješ.^^- Myslím na tebe^Sebastian",
+
+  "MailSebastian10": "Ahoj, @.^Chtěl jsem ti poděkovat za všechen čas, který jsme spolu strávili.^Připravil jsem několik věcí, které mám nejraději: Zmrzlou slzu, trochu sashimi a pořádně silnou kávu na dlouhé noci.^Doufám, že ti tím ukážu, jak moc jsem rád, že jsi po mém boku.^^- S celou svou láskou^Sebastian"
 }

@@ -1,15 +1,25 @@
 //Japanese Translation
 //ja.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "最近は仕事が忙しくて、こういう物が少し気持ちを落ち着かせてくれるって気づいたんだ。^君の農場でも役に立つかもしれない。^うまく使ってくれると嬉しい。^^- セバスチャン",
+
+  "MailSebastian01": "やあ、@。^鉱山を歩いていたら、この水晶を見つけた。きれいだったし、俺より君の農場で役に立つ気がしたんだ。^役に立てばいいな。^^- セバスチャン",
+
+  "MailSebastian02": "やあ、@。^マルがどうしてもこれを持っておけって言うんだ。^仕事に役立つって言ってたけど、正直…俺はこれが大嫌いなんだ。^まるで失われた文明の古いコンピューターみたいだろ。^君なら俺よりうまく使えるかもしれない。^俺はせいぜい飾りとして置いてあるだけだ。^^- セバスチャン",
+
+  "MailSebastian03": "やあ、@。^夜通し仕事をしていたら、コーヒーを作りすぎちゃった。^君も農場でもうひと頑張りするために、少し元気が必要かもしれないと思ってね。楽しんで。^^- セバスチャン",
+
+  "MailSebastian04": "やあ、@。^俺のバイクのこと、覚えてる？整備していたら、この錆びた歯車が出てきたんだ。^何かいいアイデアのきっかけになるかもしれない。^^- またな^セバスチャン",
+
+  "MailSebastian05": "やあ、@。^コーヒーがいつも答えとは限らない。^たまにはお茶を飲むと気持ちが落ち着いて、長い一日のあとにリラックスできる。^君にも少し送ることにしたよ。^^- またな^セバスチャン",
+
+  "MailSebastian06": "やあ、@。^水晶や黒曜石を見ると、昔遊んでいたRPGの魔法の石やルーンを思い出すんだ。^本当に力なんてないのかもしれない…でも、あるって想像するのは今でも好きだ。^気に入ってくれるといいな。^^- 元気で^セバスチャン",
+
+  "MailSebastian07": "やあ、@。^夜みたいに真っ黒な卵を見つけたら、君のことを思い出した。^それと、毎日の力になればと思ってコーヒーも淹れておいた。^どちらも役に立つといいな。^^- 元気で^セバスチャン",
+
+  "MailSebastian08": "やあ、@。^この凍ったジオードを見つけたんだけど、外見が凍った涙みたいだったんだ。^中には何か面白いものが入っているかもしれない。^お茶も一緒に送るよ。^^- 愛を込めて^セバスチャン",
+
+  "MailSebastian09": "やあ、@。^このカエルの卵を見つけて、一番居心地のいい相手って言葉なんていらないんだなって思った。^鉱山でこのエッセンスも見つけたよ。^君ならきっとうまく使えるはずだ。^^- 君のことを想ってる^セバスチャン",
+
+  "MailSebastian10": "やあ、@。^今まで一緒に過ごしてくれて、本当にありがとう。^俺の好きなものを少し集めてみた。凍った涙と刺身、それから長い夜のための濃いコーヒー。^君がそばにいてくれることが、俺にとってどれだけ大切か伝われば嬉しい。^^- 心からの愛を込めて^セバスチャン"
 }
