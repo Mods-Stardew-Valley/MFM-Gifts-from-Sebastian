@@ -21,7 +21,7 @@ Eventos
 06 - Quartz + Obsidian - Presentes magicos e misticos como as pedras magicas dos jogos de RPG e fazer referencia ao evento 
 07 - Void Egg + Coffee
 08 - Frozen Geode + Green Tea - Fazer referencia a parecer uma lagrima congelada e talvez ate mesmo ter uma joia como ela dentro
-09 - Frog Egg + Void Essence
+09 - Green Slime Egg + Void Essence // Trocar essa referencia do ovo de sapo para ovo de slime 
 10 - Frozen Tear + Sashimi + Triple Shot Espresso
 
     Repetiveis
