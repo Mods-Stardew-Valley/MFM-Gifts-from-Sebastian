@@ -1,15 +1,25 @@
 //Polish Translation
 //pl.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "Ostatnio dużo pracowałem i zdałem sobie sprawę, że te rzeczy pomagają mi się trochę odprężyć.^Może przydadzą się także na twojej farmie.^Mam nadzieję, że dobrze je wykorzystasz.^^- Sebastian",
+
+  "MailSebastian01": "Cześć, @.^Podczas wędrówki po kopalniach znalazłem ten Kwarc. Wydał mi się ładny i pomyślałem, że na twojej farmie może się bardziej przydać niż u mnie.^Mam nadzieję, że ci się przyda.^^- Sebastian",
+
+  "MailSebastian02": "Cześć, @.^Maru uparła się, żebym to zatrzymał.^Powiedziała, że może mi się przydać w pracy, ale szczerze... nie cierpię tego.^Wygląda jak stary komputer z zaginionej cywilizacji.^Może ty znajdziesz dla tego lepsze zastosowanie niż ja.^Ja używam tego co najwyżej jako dekoracji.^^- Sebastian",
+
+  "MailSebastian03": "Cześć, @.^Pracowałem całą noc i zrobiłem zdecydowanie za dużo kawy.^Pomyślałem, że tobie też przyda się trochę energii na kolejny dzień na farmie.^Smacznego.^^- Sebastian",
+
+  "MailSebastian04": "Hej, @.^Pamiętasz mój motocykl? Podczas konserwacji znalazłem to zardzewiałe koło zębate.^Może podsunie ci jakiś dobry pomysł.^^- Do zobaczenia^Sebastian",
+
+  "MailSebastian05": "Cześć, @.^Kawa nie zawsze jest odpowiedzią.^Czasem filiżanka herbaty pomaga uporządkować myśli i odprężyć się po długim dniu pracy.^Pomyślałem, że wyślę trochę także tobie.^^- Do zobaczenia^Sebastian",
+
+  "MailSebastian06": "Cześć, @.^Zawsze uważałem, że Kwarce i Obsydiany przypominają magiczne kamienie i runy z RPG, w które kiedyś grałem.^Może nie mają żadnej prawdziwej mocy... ale nadal lubię wyobrażać sobie, że jest inaczej.^Mam nadzieję, że ci się spodobają.^^- Trzymaj się^Sebastian",
+
+  "MailSebastian07": "Cześć, @.^Zdobyłem jajko czarne jak noc i od razu pomyślałem o tobie.^Przygotowałem też trochę kawy, żeby umilić ci codzienną pracę.^Mam nadzieję, że oba prezenty ci się przydadzą.^^- Trzymaj się^Sebastian",
+
+  "MailSebastian08": "Cześć, @.^Znalazłem tę Zamarzniętą Geodę i z zewnątrz przypomniała mi Zamarzniętą Łzę.^Kto wie, może w środku kryje się coś ciekawego.^Dołożyłem też trochę herbaty.^^- Z uczuciem^Sebastian",
+
+  "MailSebastian09": "Hej, @.^Znalazłem to jajko i przypomniało mi, że niektórzy z najlepszych towarzyszy nie muszą powiedzieć ani jednego słowa.^Może wykluje się z niego coś ciekawego.^Znalazłem też trochę tej esencji w kopalniach.^Może dobrze ją wykorzystasz.^^- Myślę o tobie^Sebastian",
+
+  "MailSebastian10": "Cześć, @.^Chciałem ci podziękować za cały czas, który razem spędziliśmy.^Przygotowałem kilka moich ulubionych rzeczy: Zamarzniętą Łzę, trochę sashimi i mocną kawę na długie noce.^Mam nadzieję, że to pokaże, jak bardzo lubię mieć cię przy sobie.^^- Z całą moją miłością^Sebastian"
 }

@@ -1,15 +1,25 @@
 //Turkish Translation
 //tr.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "Son zamanlarda çok çalışıyorum ve bunların biraz olsun rahatlamama yardımcı olduğunu fark ettim.^Belki çiftliğinde senin de işine yararlar.^Umarım iyi değerlendirirsin.^^- Sebastian",
+
+  "MailSebastian01": "Merhaba, @.^Madende dolaşırken bu Kuvarsı buldum. Güzel göründüğünü düşündüm ve çiftliğinde benden daha iyi değerlendirebileceğini hayal ettim.^Umarım işine yarar.^^- Sebastian",
+
+  "MailSebastian02": "Merhaba, @.^Maru bunu bende kalması için ısrar etti.^İşimde bana yardımcı olabileceğini söyledi ama dürüst olmak gerekirse... bu şeyden nefret ediyorum.^Kayıp bir uygarlıktan kalmış eski bir bilgisayara benziyor.^Belki sen benden daha iyi bir kullanım alanı bulursun.^Ben en fazla dekor olarak kullanıyorum.^^- Sebastian",
+
+  "MailSebastian03": "Merhaba, @.^Bütün gece çalıştım ve sonunda gereğinden fazla kahve yaptım.^Çiftlikte geçireceğin bir gün için senin de biraz enerjiye ihtiyacın olabileceğini düşündüm.^Afiyet olsun.^^- Sebastian",
+
+  "MailSebastian04": "Selam, @.^Motosikletimi hatırlıyor musun? Bakım yaparken bu paslı dişliyi buldum.^Belki sana iyi bir fikir verir.^^- Görüşürüz^Sebastian",
+
+  "MailSebastian05": "Merhaba, @.^Kahve her zaman çözüm değildir.^Bazen biraz çay, uzun bir günün ardından düşüncelerini toparlamana ve rahatlamana yardımcı olur.^Ben de sana biraz göndermeye karar verdim.^^- Görüşürüz^Sebastian",
+
+  "MailSebastian06": "Merhaba, @.^Kuvars ve Obsidyen bana her zaman eskiden oynadığım RPG oyunlarındaki büyülü taşları ve rünleri hatırlatmıştır.^Belki gerçekten hiçbir güçleri yoktur... ama öyle olduklarını hayal etmeyi hâlâ seviyorum.^Umarım hoşuna giderler.^^- Kendine iyi bak^Sebastian",
+
+  "MailSebastian07": "Merhaba, @.^Gece kadar siyah bir yumurta buldum ve aklıma sen geldin.^Günlük işlerinde sana biraz destek olsun diye biraz da kahve hazırladım.^Umarım ikisi de işine yarar.^^- Kendine iyi bak^Sebastian",
+
+  "MailSebastian08": "Merhaba, @.^Bu Donmuş Jeodu buldum ve dışarıdan bana Donmuş Gözyaşı'nı hatırlattı.^Kim bilir, belki içinde ilginç bir şey saklıdır.^Yanına biraz da çay gönderdim.^^- Sevgiyle^Sebastian",
+
+  "MailSebastian09": "Selam, @.^Bu yumurtayı buldum ve en iyi dostlardan bazılarının tek kelime etmesine bile gerek olmadığını düşündüm.^Belki içinden güzel bir şey çıkar.^Madende bu özden de biraz buldum.^Umarım iyi değerlendirirsin.^^- Seni düşünüyorum^Sebastian",
+
+  "MailSebastian10": "Merhaba, @.^Birlikte geçirdiğimiz tüm zamanlar için sana teşekkür etmek istedim.^En sevdiğim şeylerden birkaçını senin için ayırdım: bir Donmuş Gözyaşı, biraz saşimi ve uzun geceler için sert bir kahve.^Umarım bu, yanımda olmandan ne kadar mutlu olduğumu gösterebilir.^^- Tüm sevgimle^Sebastian"
 }

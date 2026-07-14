@@ -1,15 +1,25 @@
-//Chinese (Simplified) Translation
+//Simplified Chinese Translation
 //zh.json
 {
-"SebastianRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailSebastian10":  "INCERIR TEXTO DAS CARTAS AQUI"
+  "SebastianRepeteable": "最近我一直忙着工作，发现这些东西能让我稍微放松一下。^也许它们在你的农场里也能派上用场。^希望你能好好利用它们。^^- 塞巴斯蒂安",
+
+  "MailSebastian01": "你好，@。^我在矿井里闲逛的时候找到了这块石英。它看起来很漂亮，我觉得放在你的农场里应该比留在我这里更有用。^希望它能帮到你。^^- 塞巴斯蒂安",
+
+  "MailSebastian02": "你好，@。^玛鲁坚持让我把这东西留下。^她说它能帮到我的工作，但老实说……我真的很讨厌它。^它看起来就像某个失落文明留下来的古老电脑。^也许你能找到比我更好的用途。^我最多也只是把它当摆设。^^- 塞巴斯蒂安",
+
+  "MailSebastian03": "你好，@。^我熬夜工作，不知不觉煮了太多咖啡。^我想你在农场忙碌的一天里，应该也需要一点额外的精神。^希望你喜欢。^^- 塞巴斯蒂安",
+
+  "MailSebastian04": "嘿，@。^还记得我的摩托车吗？我保养它的时候找到了这个生锈的齿轮。^也许它会给你带来一些不错的灵感。^^- 回头见^塞巴斯蒂安",
+
+  "MailSebastian05": "你好，@。^咖啡并不总是答案。^有时候，一杯茶更能让人整理思绪，在漫长的一天后放松下来。^所以我也给你寄了一点。^^- 回头见^塞巴斯蒂安",
+
+  "MailSebastian06": "你好，@。^我一直觉得石英和黑曜石很像我以前玩RPG时见过的魔法宝石和符文。^也许它们并没有真正的魔力……但我还是喜欢幻想它们拥有力量。^希望你会喜欢。^^- 保重^塞巴斯蒂安",
+
+  "MailSebastian07": "你好，@。^我找到了一颗像黑夜一样漆黑的蛋，第一时间就想到了你。^我还准备了一些咖啡，希望能为你的日常生活补充一点活力。^希望这些东西对你有帮助。^^- 保重^塞巴斯蒂安",
+
+  "MailSebastian08": "你好，@。^我找到了这个冰冻晶球，它的外表让我想起了一滴冰封之泪。^谁知道里面会不会藏着什么有趣的东西呢？^我还顺便给你寄了一点茶。^^- 满怀关心^塞巴斯蒂安",
+
+  "MailSebastian09": "嘿，@。^我找到了这颗蛋，突然想到，有些最好的伙伴根本不需要说一句话。^也许它会孵化出什么有趣的东西。^我还在矿井里找到了一些这种精华。^希望你能好好利用它。^^- 想念你^塞巴斯蒂安",
+
+  "MailSebastian10": "你好，@。^我想感谢你一直以来陪伴在我身边。^我挑了几样自己最喜欢的东西送给你：一滴冰封之泪、一些生鱼片，还有一杯浓咖啡，陪你度过漫长的夜晚。^希望这些能让你知道，有你陪在身边，我真的很开心。^^- 献上我全部的爱^塞巴斯蒂安"
 }
