@@ -18,13 +18,6 @@
 	//    ]
     //},
 
-    //Modificar os nomes e trocar os presentes
-    //Adicionar ou remover os presentes conforme necessario
-    //Alterar de Object para BigCraftable quando necessario
-    //Caso seja necessario usar o exemplo com "Index" das cartas repetiveis 
-        //Ideal para items com nomes diferentes ou caracteres especiais
-    //Remover todos os comentarios desnecessarios
-
 {
     "Id": "MailSebastian01",
     "GroupId": "SebastianLetters",
@@ -114,9 +107,6 @@
                      { "Type": "Object", "Name": "Triple Shot Espresso", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 10 } ]
 },
-
-    //Alterar os presentes e colocar os nomes nos comentarios
-    //Usar o mesmo Id com quantidades diferentes quando necessario
 
 {
 	"Id": "SebastianRepetable",
