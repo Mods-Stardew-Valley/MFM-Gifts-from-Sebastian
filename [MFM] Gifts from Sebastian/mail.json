@@ -111,6 +111,7 @@
 {
 	"Id": "SebastianRepetable",
     "GroupId": "RepeteableSebastian",
+    "Text": "SebastianRepeteable",
 	"Repeatable": true,
 	"RandomChance": 0.075,
 	"FriendshipConditions": [ { "NpcName": "Sebastian", "FriendshipLevel": 1 } ],
