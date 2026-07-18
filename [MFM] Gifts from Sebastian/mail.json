@@ -109,7 +109,7 @@
 },
 
 {
-	"Id": "SebastianRepetable",
+	"Id": "SebastianRepeteable",
     "GroupId": "RepeteableSebastian",
     "Text": "SebastianRepeteable",
 	"Repeatable": true,
