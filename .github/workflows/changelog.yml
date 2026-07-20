@@ -1,0 +1,29 @@
+name: Atualizar Changelog Automatico
+
+on:
+  push:
+    branches:
+      - main # O changelog será gerado sempre que você enviar alterações para a branch principal
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do codigo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Gerar CHANGELOG.md
+        uses: orhun/git-cliff-action@v3
+        with:
+          config: cliff.toml
+          args: --verbose
+        env:
+          OUTPUT: CHANGELOG.md
+
+      - name: Commitar alteracao do Changelog
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: atualiza CHANGELOG.md [skip ci]"
+          file_pattern: CHANGELOG.md
